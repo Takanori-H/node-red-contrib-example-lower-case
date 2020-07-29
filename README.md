@@ -1,1 +1,1 @@
-# node-red-contrib-sample
+# node-red-contrib-example-lower-case
